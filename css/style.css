@@ -93,6 +93,7 @@ section {
     background: url(../assets/img/sunset-g1016517c5_1920.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
     background-position: 35% 5%;
     display: grid;
     grid-template-columns: repeat(1, 1fr);
@@ -105,7 +106,6 @@ section {
     color: var(--bg-color);
     letter-spacing: 6px;
     margin-left: 40px;
-    margin-bottom: 20px;
     font-family: havanasunset !important;
 }
 .ex-text {
@@ -121,9 +121,10 @@ section {
 
 .hometext p {
     color: white;
-    font-size: 18.7px;
+    font-size: 17px;
     font-weight: 300;
     line-height: 38px;
+    margin-top: 20px;
     margin-bottom: 50px;
 }
 
@@ -150,4 +151,8 @@ section {
     transform: scale(0.98);
     /* Scaling button to 0.98 to its original size */
     box-shadow: 7px 6px 28px 1px rgba(0, 0, 0, 0.24);
+}
+
+.package {
+    background: #6e54fa;
 }
