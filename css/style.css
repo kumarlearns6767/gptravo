@@ -59,8 +59,8 @@ header {
 .navbar a {
     color: rgb(255, 0, 98);
     /* border: 1px solid white; */
-    margin-right:10px;
-    font-size: var(--p-font);
+    margin-right: 10px;
+    font-size: 16.8px;
     font-weight: 500;
     padding: 10px 22px;
     border-radius: 7px;
@@ -104,6 +104,17 @@ section {
     line-height: 1.2;
     color: var(--bg-color);
     letter-spacing: 6px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+    font-family: havanasunset !important;
+}
+.ex-text {
+    margin-left: 50px !important;
+    font-size: var(--big-font);
+    line-height: 1.2;
+    color: var(--bg-color);
+    letter-spacing: 15px;
+    margin-left: 40px;
     margin-bottom: 20px;
     font-family: havanasunset !important;
 }
@@ -127,10 +138,16 @@ section {
     border: none;
 }
 
-.home-button:hover{
+.home-button:hover {
     background: blue;
     font-weight: 600;
     color: white;
     border: none;
     transform: scale(1.1);
+}
+
+.home-button:active {
+    transform: scale(0.98);
+    /* Scaling button to 0.98 to its original size */
+    box-shadow: 7px 6px 28px 1px rgba(0, 0, 0, 0.24);
 }
