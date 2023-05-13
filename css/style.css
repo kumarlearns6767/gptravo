@@ -1,5 +1,10 @@
 @import url(https://fonts.bunny.net/css?family=poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i);
 
+@font-face {
+    font-family: havanasunset;
+    src: url();
+ }
+
 * {
     padding: 0;
     margin: 0;
@@ -88,4 +93,12 @@ section {
     display: grid;
     grid-template-columns: repeat(1, 1fr);
     align-items: center;
+}
+
+.hometext h1 {
+    font-size: var(--big-font);
+    line-height: 1.2;
+    color: var(--bg-color);
+    letter-spacing: 4px;
+    margin-bottom: 20px;
 }
