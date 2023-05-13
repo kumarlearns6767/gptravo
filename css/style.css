@@ -161,7 +161,7 @@ section {
 /* to add bg colot to sticky header */
 
 header .sticky {
-    background-color: whitesmoke;
+    background: var(--bg-color);
     padding: 30px 7%;
     box-shadow: rgba(35,35,38,0.1) 0px 10px 10px -10px;
 }
