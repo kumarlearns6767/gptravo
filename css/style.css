@@ -2,8 +2,8 @@
 
 @font-face {
     font-family: havanasunset;
-    src: url();
- }
+    src: url(../assets/fonts/HAVANA_SUNSET/havana-sunset-script.ttf);
+}
 
 * {
     padding: 0;
@@ -40,8 +40,9 @@ header {
     align-items: center;
     justify-content: space-between;
     background: transparent;
-    padding: 30px 18%;
+    padding: 30px 7%;
     transition: ease .40s;
+    margin-bottom: 2.5rem;
 }
 
 .logo {
@@ -56,7 +57,9 @@ header {
 }
 
 .navbar a {
-    color: var(--bg-color);
+    color: rgb(255, 0, 98);
+    /* border: 1px solid white; */
+    margin-right:10px;
     font-size: var(--p-font);
     font-weight: 500;
     padding: 10px 22px;
@@ -78,6 +81,7 @@ header {
     cursor: pointer;
     display: none;
 }
+
 section {
     padding: 80px 18%;
 }
@@ -99,6 +103,34 @@ section {
     font-size: var(--big-font);
     line-height: 1.2;
     color: var(--bg-color);
-    letter-spacing: 4px;
+    letter-spacing: 6px;
     margin-bottom: 20px;
+    font-family: havanasunset !important;
+}
+
+.hometext p {
+    color: white;
+    font-size: 18.7px;
+    font-weight: 300;
+    line-height: 38px;
+    margin-bottom: 50px;
+}
+
+.home-button {
+    display: inline-block;
+    font-size: 16px;
+    padding: 10px 20px;
+    background: #fff;
+    color: var(--main-color);
+    border-radius: 7px;
+    transition: ease .40s;
+    border: none;
+}
+
+.home-button:hover{
+    background: blue;
+    font-weight: 600;
+    color: white;
+    border: none;
+    transform: scale(1.1);
 }
