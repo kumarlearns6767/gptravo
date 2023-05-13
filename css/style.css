@@ -155,4 +155,21 @@ section {
 
 .package {
     background: #6e54fa;
+    height: 100vh;
+}
+
+/* to add bg colot to sticky header */
+
+header .sticky {
+    background-color: whitesmoke;
+    padding: 30px 7%;
+    box-shadow: rgba(35,35,38,0.1) 0px 10px 10px -10px;
+}
+
+.sticky .logo {
+    color: var(--text-color);
+}
+
+.sticky .navbar a {
+    color: var(--text-color);
 }
