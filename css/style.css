@@ -45,6 +45,10 @@ header {
     margin-bottom: 2.5rem;
 }
 
+section {
+    padding: 80px 11%;
+}
+
 .logo {
     font-size: 31px;
     font-weight: 600;
@@ -80,10 +84,6 @@ header {
     z-index: 10001;
     cursor: pointer;
     display: none;
-}
-
-section {
-    padding: 80px 18%;
 }
 
 .home {
@@ -196,6 +196,7 @@ section {
 .service-container {
     display: flex;
 }
+
 .row-items {
     display: grid;
     grid-auto-flow: column;
@@ -216,7 +217,7 @@ section {
     cursor: pointer;
 }
 
-.container-img img{
+.container-img img {
     width: 95px;
     height: auto;
     padding: 15px;
@@ -250,11 +251,17 @@ section {
     display: flex;
 }
 
-.title h2{
-    font-size: 30px;
-    font-weight: 700;
+.title h2 {
+    font-size: 39px;
+    font-weight: 600;
     line-height: 1.4;
     text-align: center;
+}
+
+.package-container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between !important;
 }
 
 .package-content {
@@ -265,6 +272,7 @@ section {
     align-items: center;
     margin-top: 5rem;
     padding: 0.5rem;
+    margin-left: 1.5rem;
 }
 
 .thumbnail {
@@ -275,9 +283,19 @@ section {
 }
 
 .thumbnail img {
-    width: 12rem;
+    width: 16rem;
     height: auto;
     border-radius: 7px;
     box-shadow: 5px 30px 56.1276px rgb(55 55 55 / 12%);
     margin-bottom: 1rem;
+}
+
+.thumbnail h3 {
+    position: absolute;
+    font-size: 14px;
+    font-weight: 600;
+    text-align: right;
+    color: var(--bg-color);
+    top: 4px;
+    right: 9px;
 }
