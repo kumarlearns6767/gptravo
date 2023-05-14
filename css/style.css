@@ -434,8 +434,8 @@ section {
 }
 
 .col-content img {
-    width: 410px;
-    height: 500px;
+    width: 380px;
+    height: 450px;
     object-fit: cover;
     transition: all .3s cubic-bezier(.445, .05, .055, .95);
     border-radius: 9px;
