@@ -306,7 +306,7 @@ section {
 }
 
 .dest-content1 {
-    display:flex;
+    display: flex;
     flex-wrap: wrap;
     align-items: flex-start;
     justify-content: space-between;
@@ -325,7 +325,7 @@ section {
     color: var(--second-color);
 }
 
-.stars1 i{
+.stars1 i {
     color: gold;
     font-size: 15px;
 }
@@ -377,7 +377,7 @@ section {
 }
 
 .dest-content {
-    display:flex;
+    display: flex;
     flex-wrap: wrap;
     align-items: flex-start;
     justify-content: space-between;
@@ -396,7 +396,7 @@ section {
     color: var(--second-color);
 }
 
-.stars i{
+.stars i {
     color: gold;
     font-size: 15px;
 }
@@ -448,7 +448,7 @@ section {
     font-weight: 500;
     color: var(--bg-color);
     left: 15px;
-    bottom: 60px; 
+    bottom: 60px;
 }
 
 .col-content p {
@@ -459,4 +459,75 @@ section {
     left: 15px;
     bottom: 25px;
     letter-spacing: 1px;
+}
+
+.news {
+    position: relative;
+    padding: 8rem 6.5rem;
+    display: flex;
+    flex-wrap:  wrap;
+    align-items: center;
+    justify-content: space-between;
+    grid-gap: 3rem; 
+}
+
+.news:before {
+    content: "";
+    background: url(../assets/img/ladakh\ landscape.jpg);
+    opacity: 0.5;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 55vh;
+    z-index: -1;
+    filter: blur(2px); /* Adjust the blur value as desired */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 35% 5%;
+}
+
+.news-text h2 {
+    font-size: var(--h2-font);
+    color: rgba(67, 67, 67, 0.958);
+    margin-bottom: 8px;
+    letter-spacing: 1.5px;
+}
+
+.news-text p {
+    font-size: var(--p-font);
+    color: var(--second-color);
+    line-height: 30px;
+}
+
+.news form {
+    max-width: 100%;
+    width: 450px;
+    position: relative;
+}
+
+.news form input:first-child {
+    display: inline-block;
+    width: 100%;
+    padding: 20px;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 10px 30px rgb(85 85 85 / 20%);
+}
+
+.news form input:last-child {
+    display: inline-block;
+    position: absolute;
+    padding: 14px 20px;
+    background-color: #6e54fa;
+    color: white;
+    top: 6px;
+    right: 6px;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 10px 30px rgb(85 85 85 / 20%);
+    cursor: pointer;
 }
