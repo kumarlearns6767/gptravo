@@ -400,3 +400,24 @@ section {
     color: gold;
     font-size: 15px;
 }
+
+.destination-con {
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+    align-items: center;
+}
+
+.content1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+.col-content img {
+    width: 15rem;
+    height: auto;
+}
