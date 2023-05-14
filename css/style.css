@@ -534,6 +534,9 @@ section {
 
 .contact{
     background: blue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .main {
@@ -543,6 +546,7 @@ section {
 
 .footer {
     padding: 20px 0;
+    text-align: left;
 }
 
 .list {
@@ -554,4 +558,18 @@ section {
     color: var(--bg-color);
     margin-bottom: 30px;
     position: relative;
+}
+
+.list h4:before {
+    content: "";
+    position: absolute;
+    height: 2px;
+    width: 60px;
+    left: 0;
+    bottom: -10px;
+    background: var(--bg-color);
+}
+
+.list il li:not(last-child) {
+    margin-bottom: 16px;
 }
