@@ -154,11 +154,6 @@ section {
     box-shadow: 7px 6px 28px 1px rgba(0, 0, 0, 0.24);
 }
 
-.package {
-    background: #6e54fa;
-    height: 100vh;
-}
-
 /* to add bg colot to sticky header */
 
 .sticky {
@@ -249,4 +244,40 @@ section {
     margin-top: 1.2rem !important;
     font-size: 13px;
     color: var(--second-color);
+}
+
+.package {
+    display: flex;
+}
+
+.title h2{
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 1.4;
+    text-align: center;
+}
+
+.package-content {
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-columns: repeat(auto-fit, minmax(200px, auto));
+    grid-gap: 2rem;
+    align-items: center;
+    margin-top: 5rem;
+    padding: 0.5rem;
+}
+
+.thumbnail {
+    position: relative;
+    transition: all .3s cubic-bezier(.445, .05, .055, .95);
+    will-change: filter;
+    cursor: pointer;
+}
+
+.thumbnail img {
+    width: 12rem;
+    height: auto;
+    border-radius: 7px;
+    box-shadow: 5px 30px 56.1276px rgb(55 55 55 / 12%);
+    margin-bottom: 1rem;
 }
