@@ -249,6 +249,7 @@ section {
 
 .package {
     display: flex;
+    background: #fff9f9;
 }
 
 .title h2 {
