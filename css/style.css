@@ -531,3 +531,27 @@ section {
     box-shadow: 5px 10px 30px rgb(85 85 85 / 20%);
     cursor: pointer;
 }
+
+.contact{
+    background: blue;
+}
+
+.main {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer {
+    padding: 20px 0;
+}
+
+.list {
+    width: 25%;
+}
+
+.list h4{
+    font-size: 20px;
+    color: var(--bg-color);
+    margin-bottom: 30px;
+    position: relative;
+}
