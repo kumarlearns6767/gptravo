@@ -2,7 +2,6 @@
 
 
 // To make the header/navbar sticky via javascript
-
 const header = document.querySelector("header");
 
 window.addEventListener("scroll", function () {
@@ -10,3 +9,7 @@ window.addEventListener("scroll", function () {
 });
 
 
+// get year for footer
+let n =  new Date();
+let yearr = n.getFullYear();
+document.getElementById("year").innerHTML = yearr;
