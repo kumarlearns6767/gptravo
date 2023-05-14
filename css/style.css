@@ -282,6 +282,10 @@ section {
     cursor: pointer;
 }
 
+.thumbnail1:hover {
+    transform: scale(1.07);
+}
+
 .thumbnail1 img {
     width: 16rem;
     height: 10.8rem;
@@ -347,6 +351,10 @@ section {
     transition: all .3s cubic-bezier(.445, .05, .055, .95);
     will-change: filter;
     cursor: pointer;
+}
+
+.thumbnail:hover {
+    transform: scale(1.07);
 }
 
 .thumbnail img {
