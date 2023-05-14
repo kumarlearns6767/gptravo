@@ -108,6 +108,7 @@ section {
     margin-left: 40px;
     font-family: havanasunset !important;
 }
+
 .ex-text {
     margin-left: 50px !important;
     font-size: var(--big-font);
@@ -163,7 +164,7 @@ section {
 .sticky {
     background: rgb(42, 0, 210);
     padding: 20px 7%;
-    box-shadow: rgba(35,35,38,0.1) 0px 10px 10px -10px;
+    box-shadow: rgba(35, 35, 38, 0.1) 0px 10px 10px -10px;
 }
 
 .sticky .logo {
@@ -176,4 +177,57 @@ section {
 
 .sticky .navbar a:hover {
     color: black;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.text h2 {
+    font-size: 39px;
+    font-weight: 600;
+    line-height: 1;
+}
+
+.service-container {
+    display: flex;
+}
+.row-items {
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-columns: repeat(auto-fit, minmax(250px, auto));
+    grid-gap: 2rem;
+    align-items: center;
+    text-align: center;
+    margin-top: 5rem;
+    padding: 0.5rem;
+}
+
+.container-box {
+    background: var(--bg-color);
+    border: 1.8px solid #f0eded;
+    padding: 50px 10px;
+    border-radius: 7px;
+    transition: all 1s ease 0s;
+    cursor: pointer;
+}
+
+.container-img img{
+    width: 95px;
+    height: auto;
+    padding: 15px;
+    background: var(--bg-color);
+    box-shadow: 5px 10px 30px rgb(85 85 85 / 20%);
+    border-radius: 7px;
+    margin-bottom: 15px;
+    cursor: pointer;
 }
