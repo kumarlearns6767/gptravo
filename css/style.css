@@ -753,4 +753,10 @@ section {
         padding-top: 0px !important;
     }
 
+    /* Destination Section */
+
+    .col-content img {
+        width: 302px !important;
+        height: 344px !important;
+    }
 }
