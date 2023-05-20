@@ -788,11 +788,11 @@ section {
         width: 270px;
         height: 23rem;
         border-radius: 12px;
-        background: #ff9500;
+        background: #ff0044;
         display: flex;
         flex-direction: column;
         align-items: center;
-        padding: 50px 30px;
+        padding: 45px 30px;
         transition: 0.5s all;
     }
 
@@ -818,6 +818,15 @@ section {
 }
 
 @media (max-width: 600px) {
+
+    .logo {
+        font-size: 20px !important;
+    }
+
+    /* .home {
+        background-position: 40% !important;
+    } */
+
     .list {
         width: 100%;
     }
