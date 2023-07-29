@@ -16,7 +16,9 @@ Steps to run this website on your local computer (windows specific) -
 
    > Boxi Icons are imported and used from line no 8 to 15.
 
-   >
+   > Custom CSS (self made) is imported and used from line no 16 to 17.
+
+   > Bootstrap is imported and used from line no 19 to 24.
 
 A Travel Company Landing Page which has 6 sections - Home, Services, Packages, Destinations, Newsletter/Contact Us, Footer. This landing page is made to generate leads through the website, answer user inquiries, let the user contact the company for placing an order, learn about company services in detail and make purchase decisions according.
 
