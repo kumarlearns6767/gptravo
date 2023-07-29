@@ -4,9 +4,11 @@ This is a Travel Agency website for my portfolio in Travel Agencies Websites Cat
 
 Steps to run this website on your local computer (windows specific) -
 
-1. Git clone the URL of this repository and try cloning the repository though GIT bash or terminal in your local machine.
+1. Git clone the URL of this repository and try cloning the repository through GIT bash or terminal in your local machine.
 
-2.
+2. After cloning, open the repository in your favorite code editor/IDE (I made this in VS Code so I suggest VS Code but not mandatory).
+
+3.
 
 A Travel Company Landing Page which has 6 sections - Home, Services, Packages, Destinations, Newsletter/Contact Us, Footer. This landing page is made to generate leads through the website, answer user inquiries, let the user contact the company for placing an order, learn about company services in detail and make purchase decisions according.
 
