@@ -10,6 +10,14 @@ Steps to run this website on your local computer (windows specific) -
 
 3. Navigate to the project explorer of your code editor and click on "index.html" file.
 
+4. After Opening the "index.html" file, here is the explanation of the work done inside the "index.html" file -
+
+   > html language is english as mentioned in line no 2.
+
+   > Boxi Icons are imported and used from line no 8 to 15.
+
+   >
+
 A Travel Company Landing Page which has 6 sections - Home, Services, Packages, Destinations, Newsletter/Contact Us, Footer. This landing page is made to generate leads through the website, answer user inquiries, let the user contact the company for placing an order, learn about company services in detail and make purchase decisions according.
 
 Check out the live hosted link (if not expired) - https://lalitkumarthakur.github.io/gptravo/
