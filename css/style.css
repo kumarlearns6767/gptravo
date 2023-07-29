@@ -628,8 +628,17 @@ section {
     padding-top: 40px;
 }
 
-.end-text p {
+.copyright {
     color: #fff;
+<<<<<<< HEAD
+    font-size: 17.5px;
+    margin-bottom: 0.8rem;
+}
+
+.credit-nlp {
+    color: #fff;
+    font-size: 15px;
+=======
     font-size: 14px;
 }
 
@@ -993,4 +1002,5 @@ section {
     .list {
         width: 100%;
     }
+>>>>>>> be1aa1a8286458fa164876d75e463c923df05feb
 }
