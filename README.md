@@ -8,7 +8,7 @@ Steps to run this website on your local computer (windows specific) -
 
 2. After cloning, open the repository in your favorite code editor/IDE (I made this in VS Code so I suggest VS Code but not mandatory).
 
-3.
+3. Navigate to the project explorer of your code editor and click on "index.html" file.
 
 A Travel Company Landing Page which has 6 sections - Home, Services, Packages, Destinations, Newsletter/Contact Us, Footer. This landing page is made to generate leads through the website, answer user inquiries, let the user contact the company for placing an order, learn about company services in detail and make purchase decisions according.
 
