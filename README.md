@@ -36,6 +36,12 @@ Steps to run this website on your local computer (windows specific) -
 
    > Destination Section starts at line no 237. It has 6 cards explaning 6 different most popular destinations. It also has CSS animations for user interaction.
 
+   > Newsletter Section starts at line no 327. This feature does not works for not but will be functional in future once the V1 is complete.
+
+   > Footer Section startes at line no 344. This section has 4 differents divs having 4 diffferents links and sub lins including copyright information and Website creator information (me/my company).
+
+   > The website will has features like Lazy Loading, High speed loading of the site, less routing and SPA type site in future versions.
+
 <!-- A Travel Company Landing Page which has 6 sections - Home, Services, Packages, Destinations, Newsletter/Contact Us, Footer. This landing page is made to generate leads through the website, answer user inquiries, let the user contact the company for placing an order, learn about company services in detail and make purchase decisions according.
 
 Check out the live hosted link (if not expired) - https://lalitkumarthakur.github.io/gptravo/
