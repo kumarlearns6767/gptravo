@@ -1,12 +1,19 @@
-# GP TRAVO Agency Landing Page
+# NL TRAVO Agency Landing Page
+
+--** COPYRIGHT DISCLAMER **--
+
+This website source is made public for company hiring managers/ technical HRs/ clients so that they can review the code and hire me. This website is not made public for anyone to clone it without permission and misuse/use it for their business or any other purpose. Doing so will lead to strict legal against you does not matter in which country you are!! I am making this clear that you are not allowed to clone the code and do anything on it. For that, you have to purchase the website from me including the template then only I can provide you the commercial version of the website.
+
+--**_ ABOUT THE WEBSITE _**--
 
 This is a Travel Agency website for my portfolio in Travel Agencies Websites Category. This website was initially made for my client "GP Travo" and later on modified according to the requirements as shared in the feedback from the client and also to convert the basic static landing page into working website which is capable to do financial transactions. So, I decided to learn and add more required features to this website to make it functional and interactive.
 
 
 To access the Hosted website click here-
-lalitkumarthakur.github.io/gptravo/
-(Please note that the website may be down sometimes for maintenance purposes).
 
+https://lalitkumarthakur.github.io/gptravo/
+
+(Please note that the website may be down sometimes for maintenance purposes).
 
 Steps to run this website on your local computer (windows specific) -
 
@@ -42,9 +49,14 @@ Steps to run this website on your local computer (windows specific) -
 
    > Footer Section startes at line no 344. This section has 4 differents divs having 4 diffferents links and sub lins including copyright information and Website creator information (me/my company).
 
-   > The website will has features like Lazy Loading, High speed loading of the site, less routing and SPA type site in future versions.
+   > The website will have features like Lazy Loading, High speed loading of the site, less routing and SPA type site in future versions.
 
+5. Now on your code editor, Install the "Live server" extension so that you can run the website. After installation, please click on "Go Live" option in your code editor in the below taskbar in VS Code.
 
+6. Congratulations! Your website is running in your local Windows computer.
 
-If you want to purchase this landing page service then please connect with me on Linkedin - lalit kumar ex-Deloitte.
+Process to purchase this website template -
+
+Please mail me on nextlevelproduction@duck.com showing your interest and explaining all your requirements for this website. Then please continue to do the payment via UPI and if you are outside India then process for Swiss Transfer. After doing the payment, please send me the screenshot with complete transaction detail on the same mail id. Once the payment is received then the website source code will be mailed to you and a meeting will be scheduled with you for further discussion.
+
 and If you want to hire me for job/contract please do the same.
