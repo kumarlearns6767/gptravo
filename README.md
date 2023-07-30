@@ -4,7 +4,9 @@ This is a Travel Agency website for my portfolio in Travel Agencies Websites Cat
 
 
 To access the Hosted website click here-
-lalitkumarthakur.github.io/gptravo/
+
+https://lalitkumarthakur.github.io/gptravo/
+
 (Please note that the website may be down sometimes for maintenance purposes).
 
 
