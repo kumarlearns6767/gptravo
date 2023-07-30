@@ -2,6 +2,10 @@
 
 This is a Travel Agency website for my portfolio in Travel Agencies Websites Category. This website was initially made for my client "GP Travo" and later on modified according to the requirements as shared in the feedback from the client and also to convert the basic static landing page into working website which is capable to do financial transactions. So, I decided to learn and add more required features to this website to make it functional and interactive.
 
+To access the Hosted website click here-
+lalitkumarthakur.github.io/gptravo/
+(Please note that the website may be down sometimes for maintenance purposes).
+
 Steps to run this website on your local computer (windows specific) -
 
 1. Git clone the URL of this repository and try cloning the repository through GIT bash or terminal in your local machine.
@@ -26,8 +30,7 @@ Steps to run this website on your local computer (windows specific) -
 
    > Home section has 1 CTA button "Let's go" but i should have javascript image slide show which will be implemented soon.
 
-   > Services section starts at line no 68.
-   > It has 4 cards explaning respective services.
+   > Services section starts at line no 68. It has 4 cards explaning respective services.
 
    >
 
