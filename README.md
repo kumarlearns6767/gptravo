@@ -48,5 +48,13 @@ Steps to run this website on your local computer (windows specific) -
 
    > The website will have features like Lazy Loading, High speed loading of the site, less routing and SPA type site in future versions.
 
+5. Now on your code editor, Install the "Live server" extension so that you can run the website. After installation, please click on "Go Live" option in your code editor in the below taskbar in VS Code.
+
+6. Congratulations! Your website is running in your local Windows computer.
+
+Process to purchase this website template -
+
+Please mail me on nextlevelproduction@duck.com showing your interest and explaining all your requirements for this website. Then please continue to do the payment via UPI and if you are outside India then process for Swiss Transfer. After doing the payment, please send me the screenshot with complete transaction detail on the same mail id. Once the payment is received then the website source code will be mailed to you and a meeting will be scheduled with you for further discussion.
+
 If you want to purchase this landing page service then please connect with me on Linkedin - lalit kumar ex-Deloitte.
 and If you want to hire me for job/contract please do the same.
