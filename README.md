@@ -4,6 +4,8 @@
 
 This website source is made public for company hiring managers/ technical HRs/ clients so that they can review the code and hire me. This website is not made public for anyone to clone it without permission and misuse/use it for their business or any other purpose. Doing so will lead to strict legal against you does not matter in which country you are!! I am making this clear that you are not allowed to clone the code and do anything on it. For that, you have to purchase the website from me including the template then only I can provide you the commercial version of the website.
 
+--**_ ABOUT THE WEBSITE _**--
+
 This is a Travel Agency website for my portfolio in Travel Agencies Websites Category. This website was initially made for my client "GP Travo" and later on modified according to the requirements as shared in the feedback from the client and also to convert the basic static landing page into working website which is capable to do financial transactions. So, I decided to learn and add more required features to this website to make it functional and interactive.
 
 To access the Hosted website click here-
