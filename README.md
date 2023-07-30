@@ -2,13 +2,11 @@
 
 This is a Travel Agency website for my portfolio in Travel Agencies Websites Category. This website was initially made for my client "GP Travo" and later on modified according to the requirements as shared in the feedback from the client and also to convert the basic static landing page into working website which is capable to do financial transactions. So, I decided to learn and add more required features to this website to make it functional and interactive.
 
-
 To access the Hosted website click here-
 
 https://lalitkumarthakur.github.io/gptravo/
 
 (Please note that the website may be down sometimes for maintenance purposes).
-
 
 Steps to run this website on your local computer (windows specific) -
 
@@ -44,9 +42,7 @@ Steps to run this website on your local computer (windows specific) -
 
    > Footer Section startes at line no 344. This section has 4 differents divs having 4 diffferents links and sub lins including copyright information and Website creator information (me/my company).
 
-   > The website will has features like Lazy Loading, High speed loading of the site, less routing and SPA type site in future versions.
-
-
+   > The website will have features like Lazy Loading, High speed loading of the site, less routing and SPA type site in future versions.
 
 If you want to purchase this landing page service then please connect with me on Linkedin - lalit kumar ex-Deloitte.
 and If you want to hire me for job/contract please do the same.
