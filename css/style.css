@@ -584,7 +584,7 @@ section {
     background: var(--bg-color);
 }
 
-.list il li:not(last-child) {
+.list li li:not(last-child) {
     margin-bottom: 16px;
 }
 
@@ -599,6 +599,7 @@ section {
 .list ul li a:hover {
     color: var(--bg-color);
     transform: translateX(14px);
+    font-weight: 700;
 }
 
 .social-media {
@@ -630,15 +631,12 @@ section {
 
 .copyright {
     color: #fff;
-<<<<<<< HEAD
     font-size: 17.5px;
     margin-bottom: 0.8rem;
 }
 
 .credit-nlp {
     color: #fff;
-    font-size: 15px;
-=======
     font-size: 14px;
 }
 
@@ -884,63 +882,6 @@ section {
     }
 }
 
-@media (max-width: 600px) {
-
-    :root {
-        --big-font: 2.5rem;
-        --h2-font: 1.8rem;
-        --p-font: 0.5rem;
-        transition: .2s;
-    }
-
-    .logo {
-        font-size: 18px !important;
-    }
-
-    .home {
-        /* background-position: 40% !important; */
-        height: 79vh !important;
-    }
-
-    .hometext h1 {
-        font-weight: 800 !important;
-    }
-
-    .hometext p {
-        font-size: 14px !important;
-    }
-
-    .text h2 {
-        font-size: 15px;
-    }
-
-    .service-container {
-        flex-direction: column !important;
-    }
-
-    .title h2 {
-        font-size: 30px !important;
-    }
-
-    .package-container1 {
-        flex-direction: column !important;
-    }
-
-    .destination-con .content1 {
-        display: flex;
-        flex-direction: column;
-        transition: 0.2s ease;
-    }
-
-    .news form {
-        width: 300px !important;
-    }
-
-    .list {
-        width: 100%;
-    }
-}
-
 @media (max-width: 340px) {
 
     :root {
@@ -1002,5 +943,4 @@ section {
     .list {
         width: 100%;
     }
->>>>>>> be1aa1a8286458fa164876d75e463c923df05feb
 }
