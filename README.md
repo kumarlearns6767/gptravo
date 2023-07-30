@@ -26,13 +26,15 @@ Steps to run this website on your local computer (windows specific) -
 
    > Responsive Navbar is created at line no 27 and ends at line no 46.
 
-   > Home section starts at line no 49.
+   > Home Section starts at line no 49.
 
-   > Home section has 1 CTA button "Let's go" but i should have javascript image slide show which will be implemented soon.
+   > Home Section has 1 CTA button "Let's go" but i should have javascript image slide show which will be implemented soon.
 
-   > Services section starts at line no 68. It has 4 cards explaning respective services.
+   > Services Section starts at line no 68. It has 4 cards explaning respective services.
 
-   >
+   > Package Section starts at line no 124. It has 4 cards explaning 4 different packages.
+
+   > Destination Section starts at line no 237. It has 6 cards explaning 6 different most popular destinations. It also has CSS animations for user interaction.
 
 <!-- A Travel Company Landing Page which has 6 sections - Home, Services, Packages, Destinations, Newsletter/Contact Us, Footer. This landing page is made to generate leads through the website, answer user inquiries, let the user contact the company for placing an order, learn about company services in detail and make purchase decisions according.
 
