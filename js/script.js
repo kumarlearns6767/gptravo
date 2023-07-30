@@ -20,3 +20,6 @@ menu.onclick = () => {
 	menu.classList.toggle("bx-x");
 	navbar.classList.toggle("open");
 };
+
+
+alert("This is a demo site and not a commercial version. The site is available for sale. Please mail to nextlevelproduction@duck.com to purchase the site.");

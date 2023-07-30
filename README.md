@@ -2,6 +2,12 @@
 
 This is a Travel Agency website for my portfolio in Travel Agencies Websites Category. This website was initially made for my client "GP Travo" and later on modified according to the requirements as shared in the feedback from the client and also to convert the basic static landing page into working website which is capable to do financial transactions. So, I decided to learn and add more required features to this website to make it functional and interactive.
 
+
+To access the Hosted website click here-
+lalitkumarthakur.github.io/gptravo/
+(Please note that the website may be down sometimes for maintenance purposes).
+
+
 Steps to run this website on your local computer (windows specific) -
 
 1. Git clone the URL of this repository and try cloning the repository through GIT bash or terminal in your local machine.
@@ -20,9 +26,25 @@ Steps to run this website on your local computer (windows specific) -
 
    > Bootstrap is imported and used from line no 19 to 24.
 
-<!-- A Travel Company Landing Page which has 6 sections - Home, Services, Packages, Destinations, Newsletter/Contact Us, Footer. This landing page is made to generate leads through the website, answer user inquiries, let the user contact the company for placing an order, learn about company services in detail and make purchase decisions according.
+   > Responsive Navbar is created at line no 27 and ends at line no 46.
 
-Check out the live hosted link (if not expired) - https://lalitkumarthakur.github.io/gptravo/
+   > Home Section starts at line no 49.
+
+   > Home Section has 1 CTA button "Let's go" but i should have javascript image slide show which will be implemented soon.
+
+   > Services Section starts at line no 68. It has 4 cards explaning respective services.
+
+   > Package Section starts at line no 124. It has 4 cards explaning 4 different packages.
+
+   > Destination Section starts at line no 237. It has 6 cards explaning 6 different most popular destinations. It also has CSS animations for user interaction.
+
+   > Newsletter Section starts at line no 327. This feature does not works for not but will be functional in future once the V1 is complete.
+
+   > Footer Section startes at line no 344. This section has 4 differents divs having 4 diffferents links and sub lins including copyright information and Website creator information (me/my company).
+
+   > The website will has features like Lazy Loading, High speed loading of the site, less routing and SPA type site in future versions.
+
+
 
 If you want to purchase this landing page service then please connect with me on Linkedin - lalit kumar ex-Deloitte.
-and If you want to hire me for job/contract please do the same. -->
+and If you want to hire me for job/contract please do the same.
