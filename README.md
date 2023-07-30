@@ -20,6 +20,17 @@ Steps to run this website on your local computer (windows specific) -
 
    > Bootstrap is imported and used from line no 19 to 24.
 
+   > Responsive Navbar is created at line no 27 and ends at line no 46.
+
+   > Home section starts at line no 49.
+
+   > Home section has 1 CTA button "Let's go" but i should have javascript image slide show which will be implemented soon.
+
+   > Services section starts at line no 68.
+   > It has 4 cards explaning respective services.
+
+   >
+
 <!-- A Travel Company Landing Page which has 6 sections - Home, Services, Packages, Destinations, Newsletter/Contact Us, Footer. This landing page is made to generate leads through the website, answer user inquiries, let the user contact the company for placing an order, learn about company services in detail and make purchase decisions according.
 
 Check out the live hosted link (if not expired) - https://lalitkumarthakur.github.io/gptravo/
