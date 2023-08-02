@@ -227,7 +227,7 @@ section {
     height: auto;
     padding: 15px;
     background: var(--bg-color);
-    box-shadow: 5px 10px 30px rgb(85 85 85 / 20%);
+    box-shadow: 8px 15px 40px rgba(30, 28, 28, 0.2);
     border-radius: 7px;
     margin-bottom: 15px;
     cursor: pointer;
@@ -295,15 +295,15 @@ section {
 }
 
 .thumbnail1:hover {
-    transform: scale(1.07);
+    transform: scale(1.10);
 }
 
 .thumbnail1 img {
-    width: 16rem;
-    height: 10.8rem;
+    width: 14rem;
+    height: 9rem;
     border-radius: 7px;
     box-shadow: 5px 30px 56.1276px rgb(55 55 55 / 12%);
-    margin-bottom: 1rem;
+    margin-bottom: 0rem;
 }
 
 .thumbnail1 h3 {
@@ -367,15 +367,15 @@ section {
 }
 
 .thumbnail:hover {
-    transform: scale(1.07);
+    transform: scale(1.10);
 }
 
 .thumbnail img {
-    width: 16rem;
-    height: auto;
+    width: 14rem;
+    height: 9rem;
     border-radius: 7px;
     box-shadow: 5px 30px 56.1276px rgb(55 55 55 / 12%);
-    margin-bottom: 1rem;
+    margin-bottom: 0rem;
 }
 
 .thumbnail h3 {
