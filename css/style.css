@@ -215,7 +215,7 @@ section {
 
 .container-box {
     background: var(--bg-color);
-    border: 1.8px solid #f0eded;
+    border: 2px solid #e2e2e2;
     padding: 50px 10px;
     border-radius: 7px;
     transition: all 0.5s ease 0s;
